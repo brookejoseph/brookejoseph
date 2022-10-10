@@ -1,8 +1,5 @@
 ### Welcome to my Github!🥳
 
-<!--
-**brookejoseph/brookejoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ##What I love 
 
 - 🏃🏼‍♀️ running 
@@ -12,4 +9,8 @@
 
 ##Skills 
 - 🌻 python 
+
+
+<!--
+**brookejoseph/brookejoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
