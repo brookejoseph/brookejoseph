@@ -8,7 +8,10 @@
 - 🤔 being curious about the world around me 
 
 ##Skills 
-- 🌻 python 
+- 🌻 python
+- 🎯 HTML 
+- 💯 numpy 
+- 🐼 pandas 
 
 
 <!--
