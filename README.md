@@ -1,6 +1,6 @@
 # 💖 Welcome to My GitHub! 💻🌸
 
-## 📬 Let's Connect!
+## Let's Connect! :))
 - 🖥️ Check out my [[Portfolio/Blog](https://brookejoseph.com/)]
 - ✨ Find me on [[LinkedIn/Twitter](https://x.com/BrookeaJoseph)]
 ---
