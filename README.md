@@ -4,7 +4,7 @@
 - 🖥️ Check out my [[Website](https://brookejoseph.com/)]
 - ✨ Find me on [[Twitter](https://x.com/BrookeaJoseph)]
 ---
-"You can never be overdressed or overeducated." - Oscar Wilde
+> "You can never be overdressed or overeducated." - Oscar Wilde
 ---
 
 
